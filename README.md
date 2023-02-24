@@ -1,5 +1,9 @@
 # What Makes a Happy Airline Passenger?
 
+[![Video Presentation Link](https://img.youtube.com/vi/S4ezehv7tCU/0.jpg)](https://www.youtube.com/watch?v=S4ezehv7tCU)
+
+External YouTube Link: https://www.youtube.com/watch?v=S4ezehv7tCU
+
 # Introduction
   By BayTech
 - Warren Ngoun (wngoun@csumb.edu)
